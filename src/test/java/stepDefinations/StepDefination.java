@@ -13,6 +13,14 @@ public class StepDefination {
     public void user_is_on_netbanking_landing_page() throws Throwable {
         System.out.println("navigated to login url");
         System.out.println("This is clone");
+        
+//        hhas
+//        asdlkj
+//        adja
+        
+        System.out.println("Added for eclipse-workspace 1");
+        System.out.println("Added for eclipse-workspace 2");      
+        
     }
 
     @When("^User login into application with \"([^\"]*)\" and \"([^\"]*)\"$")
