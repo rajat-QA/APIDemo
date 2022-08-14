@@ -20,6 +20,7 @@ public class StepDefination {
         
         System.out.println("Added for eclipse-workspace 1");
         System.out.println("Added for eclipse-workspace 2");      
+        System.out.println("New branch created");
         
     }
 
